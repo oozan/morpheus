@@ -6,14 +6,6 @@ Frontend: Next.js (TypeScript) and TailwindCSS
 
 Backend: Clojure with PostgreSQL
 
-Project Structure
-
-Morpheus/
-├── frontend/ # Next.js frontend
-├── backend/ # Clojure backend
-├── README.md # Root project documentation
-└── .gitignore # Git ignore rules
-
 Root Project
 
 This is the main directory containing both the frontend and backend projects.
